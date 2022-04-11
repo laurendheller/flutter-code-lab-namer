@@ -1,6 +1,6 @@
 # flutter_application_namer
 
-A new Flutter project.
+A Flutter application following the tutorial at https://docs.flutter.dev/get-started/codelab
 
 ## Getting Started
 
